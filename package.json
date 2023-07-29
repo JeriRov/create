@@ -1,0 +1,30 @@
+{
+  "name": "@artemmahey/express-ts",
+  "version": "1.0.8",
+  "bin": {
+    "@artemmahey/express-ts": "index.js"
+  },
+  "description": "A CLI to automatically clone the Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeriRov/express-ts.git"
+  },
+  "keywords": [],
+  "author": "Artem Magei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeriRov/express-ts/issues"
+  },
+  "homepage": "https://github.com/JeriRov/express-ts#readme",
+  "dependencies": {
+    "args": "^5.0.3",
+    "chalk": "^5.3.0",
+    "degit": "^2.8.4",
+    "yargs-parser": "^21.1.1"
+  },
+  "devDependencies": {}
+}
