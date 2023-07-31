@@ -1,25 +1,25 @@
 {
-  "name": "@artemmahey/express-ts",
-  "version": "1.0.8",
+  "name": "@artemmahey/create",
+  "version": "1.1.0",
   "bin": {
-    "@artemmahey/express-ts": "index.js"
+    "@artemmahey/create": "index.js"
   },
-  "description": "A CLI to automatically clone the Express API",
+  "description": "A CLI to automatically clone the repo template that you choose. It can be react, express or fullstack.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeriRov/express-ts.git"
+    "url": "git+https://github.com/JeriRov/create.git"
   },
   "keywords": [],
   "author": "Artem Magei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JeriRov/express-ts/issues"
+    "url": "https://github.com/JeriRov/create/issues"
   },
-  "homepage": "https://github.com/JeriRov/express-ts#readme",
+  "homepage": "https://github.com/JeriRov/create#readme",
   "dependencies": {
     "args": "^5.0.3",
     "chalk": "^5.3.0",
