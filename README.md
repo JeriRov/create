@@ -2,6 +2,12 @@
 
 This CLI allows you to create a template for your project, whether it's an express, React, or fullstack application.
 
+## Installation
+
+```sh
+npm i -g @artemmahey/create
+```
+
 ## Usage
 
 [Create express api with Typescript:](https://github.com/JeriRov/express-ts-template.git)
